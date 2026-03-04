@@ -11,7 +11,7 @@
 ---
 
 ## 🖼️ Preview
-![CryptoEmpire Banner](https://i.ibb.co/WWXSTnvF/unnamed.jpg)
+![CryptoEmpire Banner](https://i.postimg.cc/15VRhNNf/unnamed.jpg)
 *Широкий баннер с визуалом игры и логотипом Profit Scripts*
 
 ---
