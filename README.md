@@ -14,7 +14,7 @@
 ![CryptoEmpire Banner](https://i.postimg.cc/15VRhNNf/unnamed.jpg)
 *Широкий баннер с визуалом игры и логотипом Profit Scripts*
 
----
+--- 
 
 ## 🚀 Key Features (Особенности)
 
